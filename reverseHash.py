@@ -1,3 +1,8 @@
+'''
+Author  : RituRaj 
+Date    : May 15, 2018 
+'''
+
 class Hash:
     
     letters = "acdegilmnoprstuw"
